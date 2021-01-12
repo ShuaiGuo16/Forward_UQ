@@ -1,12 +1,12 @@
-## Active Learning
+## Forward uncertainty quantification analysis
 
-Active learning is an effective method to train a model efficiently. It lets the model decide where in the parameter space it wants to learn next. By using only the necessary samples, an active learning strategy can effectively cut down the number of training samples, thus significantly reducing the computational burden of labeling training samples and improving the overall training efficiency.
+Forward uncertainty quantification (UQ) analysis is an effective way to quantify the model prediction uncertainty induced by the input data variations, which serves as a crucial step towards robust decision-making. 
 
-In the notebook, we will walk through a case study, where an active learning strategy is employed to train a **Gaussian Process** model adaptively. 
+In the notebook, I will demonstrate how to perform forward UQ analysis using Monte Carlo simulation. We will go through three key steps of a typical forward UQ analysis: random sample generation, uncertainty propagation, and uncertainty visualization.
 
 
 ## Companion Blog
 
 You can find the companion blog here:
 
-[Reducing Model Training Cost With Active Learning](https://towardsdatascience.com/reducing-model-training-cost-with-active-learning-255b40a2aa98)
+[Reducing Model Training Cost With Active Learning]()
