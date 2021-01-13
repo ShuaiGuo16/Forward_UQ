@@ -9,4 +9,4 @@ In the notebook, I will demonstrate how to perform forward UQ analysis using Mon
 
 You can find the companion blog here:
 
-[Performing Uncertainty Analysis In Three Steps: A Complete Guide]()
+[Performing Uncertainty Analysis In Three Steps: A Complete Guide](https://towardsdatascience.com/performing-uncertainty-analysis-in-three-steps-a-hands-on-guide-9110b120987e)
