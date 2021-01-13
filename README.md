@@ -9,4 +9,4 @@ In the notebook, I will demonstrate how to perform forward UQ analysis using Mon
 
 You can find the companion blog here:
 
-[Reducing Model Training Cost With Active Learning]()
+[Performing Uncertainty Analysis In Three Steps: A Complete Guide]()
